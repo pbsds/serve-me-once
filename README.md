@@ -1,4 +1,4 @@
-# serve-me-once
+# [serve-me-once](https://pypi.org/project/fix-my-functions/)
 
 Serves some data over HTTP, _once_.
 Based on the built-in Python module `http.server`.
@@ -6,7 +6,7 @@ Based on the built-in Python module `http.server`.
 
 ## Installation
 
-	pip install git+https://github.com/pbsds/serve-me-once.git#main
+	pip install serve-me-once.git
 
 ## Use
 

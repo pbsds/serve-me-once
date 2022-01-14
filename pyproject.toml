@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "serve_me_once"
-version = "0.1.0"
+name = "serve-me-once"
+version = "0.1.1"
 description = ""
 authors = ["Peder Bergebakken Sundt <pbsds@hotmail.com>"]
 
