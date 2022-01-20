@@ -28,6 +28,7 @@ def serve_once(
         def do_GET(self):
             self.send_response(200)
             self.send_header("Content-type", mime_type)
+            self.send_header("Access-Control-Allow-Origin", "*") # CORS
             self.end_headers()
 
             self.wfile.write(data)
