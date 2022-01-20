@@ -1,4 +1,4 @@
-# [serve-me-once](https://pypi.org/project/fix-my-functions/)
+# [serve-me-once](https://pypi.org/project/serve-me-once/)
 
 Serves some data over HTTP, _once_.
 Based on the built-in Python module `http.server`.
