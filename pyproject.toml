@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "serve-me-once"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 authors = ["Peder Bergebakken Sundt <pbsds@hotmail.com>"]
+
+readme = "README.md"
+repository = "https://github.com/pbsds/serve-me-once/"
 
 [tool.poetry.dependencies]
 python = ">=3.6"
