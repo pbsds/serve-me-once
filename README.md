@@ -6,7 +6,7 @@ Based on the built-in Python module `http.server`.
 
 ## Installation
 
-	pip install serve-me-once.git
+	pip install serve-me-once
 
 ## Use
 
